@@ -61,7 +61,3 @@ Introduction to the intellectual enterprises of computer science and the art of 
 
 Thank you for all CS50.
 
-- Where I get CS50 course?
-https://cs50.harvard.edu/x/2020/
-
-[LinkedIn Felipe Nieto](https://www.linkedin.com/in/felipe-antonio-nieto-curcio-9b865116a/)
